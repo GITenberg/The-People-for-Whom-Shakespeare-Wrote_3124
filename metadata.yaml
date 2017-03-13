@@ -1,5 +1,8 @@
 _repo: The-People-for-Whom-Shakespeare-Wrote_3124
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warner, Charles Dudley
@@ -13,6 +16,8 @@ description: 'This 1897 literary history brings to life the world of the Elizabe
   of dining, hawking, and family life and, of course, what people knew and thought
   about Shakespeare, his works, and the actors in his plays. This volume gives readers
   an entirely different perspective of Shakespeare.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3124#The-People-for-Whom-Shakespeare-Wrote
 gutenberg_issued: '2004-12-05'
 gutenberg_type: Text
 identifiers:
